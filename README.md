@@ -1,7 +1,7 @@
-Hapi-Mongoose-Angular Example
+File upload in Hapi
 ========================
 
-The purpose of this app is to show a new way to work with Hapi.js, Mongodb, Mongoose, Angular.js.
+The purpose of this app is to upload file with Hapi.js, Mongodb, Angular.js.
 
 
 ### Install an app
