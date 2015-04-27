@@ -2,15 +2,14 @@
   "name": "jwt-auth-poc",
   "description": "Hapijs JWT POC",
   "version": "0.1.0",
-  "main": "server/server.js",
+  "main": "server",
   "engines": {
     "node": ">=0.10.22"
   },
   "dependencies": {
-    "fs": "0.0.2",
     "hapi": "7.0.0",
+    "fs": "0.0.2",
     "joi": "4.x.x",
-    "mongoose": "^3.8.20",
-    "request": "^2.55.0"
+    "mongoose": "^3.8.20"
   }
 }

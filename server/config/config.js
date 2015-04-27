@@ -1,8 +1,8 @@
 module.exports = {
     server: {
         
-            listenHost: '0.0.0.0',
-            listenPort: 8000
+            host: '0.0.0.0',
+            port: 8000
     },
     database: {
         host: '127.0.0.1',
